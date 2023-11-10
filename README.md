@@ -20,5 +20,14 @@ First, need to build an environtment to run this code (Using Python 3.8). If u a
 
 `conda create -n emojiGame python=3.8`
 
+Then you can  install the requirements package, use the pip to install all the packages that are needed
+
+`cd EmotionGame`
+`pip install -r requirements.txt`
+
+
+## Preview
+
+Here is the preview how to code should work
 
 
