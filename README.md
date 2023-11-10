@@ -12,3 +12,13 @@ The following are various types of images that represent human emotions as a ref
 | ![sedih](https://github.com/olober76/EmotionGame/assets/90765208/40d80bbf-8cef-4fc7-a13b-43d7b5f986b1)    | **Sedih**       |
 | ![senang](https://github.com/olober76/EmotionGame/assets/90765208/c1af52ab-ad85-4ffd-ab5e-4f0d61aab6bc)   | **Senang**      |
 | ![terkejut](https://github.com/olober76/EmotionGame/assets/90765208/5776673d-e873-4eab-a3d4-7a13b11aa723) | **Terkejut**    | 
+
+
+## Installation and How to Use
+
+First, need to build an environtment to run this code (Using Python 3.8). If u are using anaconda, here is command line
+
+`conda create -n emojiGame python=3.8`
+
+
+
