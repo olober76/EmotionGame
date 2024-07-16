@@ -86,9 +86,9 @@ while True:
             cv2.imshow("Oleh Oleh kalian", score_image,)# display the saved image
             skrinsut = True
             cv2.namedWindow("Oleh Oleh kalian",cv2.WINDOW_FULLSCREEN)
+            score = 0
     if cv2.waitKey(1) == ord("r"):
         cv2.destroyWindow("Oleh Oleh kalian")
-        score = 0
         skrinsut = False
     # if cv2.waitKey(5) != ord("x"):
     #     break
